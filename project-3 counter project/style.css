@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: rgb(48, 210, 228);
+}
+
+.container{
+    position: relative;
+    left: 30%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5rem;
+    background-color: rgb(10, 140, 199);
+    width: 400px;
+    height: 200px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.card-body{
+margin-top: 5rem;
+}
+ #title{
+    margin-top: 2rem;
+    color: whitesmoke;
+}
+
+
+button{
+    padding: 15px 20px ;
+    background-color: rgb(36, 152, 205);
+    border: rgb(15, 136, 104);
+    margin-top: 4rem;
+    color: whitesmoke;
+    font-weight: bold;
+}
